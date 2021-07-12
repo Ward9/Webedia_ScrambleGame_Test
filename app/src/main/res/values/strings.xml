@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Webedia_Scramble_Game</string>
+
+    <string name="game_btn_validate">Validate</string>
+    <string name="game_et_hint">Write your answer</string>
+
+    <string name="welcome_title">Welcome to the best game you ever played</string>
+    <string name="welcome_name">Please, enter your username</string>
+    <string name="welcome_btn_play">Play</string>
+
+    <string name="finish_title">Congratulation, you beat the game !</string>
+
+    <string name="message_no_answer">You must write an answer</string>
+    <string name="message_good_answer">Good answer</string>
+    <string name="message_wrong_answer">Wrong answer</string>
+    <string name="message_checkmark">Click on checkmark to play animation</string>
+</resources>
